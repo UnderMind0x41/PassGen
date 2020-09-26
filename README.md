@@ -14,7 +14,7 @@ This script required python version >= 3.0
 
 ## How To Use
 ```bash
-$ git clone https://github.com/TheUnderMind0x41/PassGen.git
+$ git clone https://github.com/UnderMind0x41/PassGen.git
 $ cd PassGen/
 $ python3 ./passgen.py
 ```
